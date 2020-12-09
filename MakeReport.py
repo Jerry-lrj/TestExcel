@@ -24,3 +24,5 @@ logger.addHandler(file_handler)
 
 logging.info('打印日志')
 logging.info('我是main')
+logging.info('本地')
+logging.info('测试')
